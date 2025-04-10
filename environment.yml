@@ -4,6 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - xeus-python
+  - werkzeug==2.0.1
   - pandas
   - bqplot
   - ipecharts
