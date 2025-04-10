@@ -9,3 +9,5 @@ dependencies:
   - ipecharts
   - ipywidgets
   - numpy
+  - plotly
+  - dash
